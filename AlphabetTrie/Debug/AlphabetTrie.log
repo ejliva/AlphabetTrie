@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  Trie.cpp
+c:\users\ejbal_000\documents\visual studio 2017\projects\alphabettrie\alphabettrie\trie.cpp(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\ejbal_000\documents\visual studio 2017\projects\alphabettrie\alphabettrie\trie.cpp(68): warning C4018: '<': signed/unsigned mismatch
+c:\users\ejbal_000\documents\visual studio 2017\projects\alphabettrie\alphabettrie\trie.cpp(85): warning C4018: '<': signed/unsigned mismatch
+c:\users\ejbal_000\documents\visual studio 2017\projects\alphabettrie\alphabettrie\trie.cpp(127): warning C4018: '<': signed/unsigned mismatch
+c:\users\ejbal_000\documents\visual studio 2017\projects\alphabettrie\alphabettrie\trie.cpp(136): warning C4018: '<': signed/unsigned mismatch
+c:\users\ejbal_000\documents\visual studio 2017\projects\alphabettrie\alphabettrie\trie.cpp(137): warning C4805: '!=': unsafe mix of type 'bool' and type 'const unsigned int' in operation
+  AlphabetTrie.cpp
+c:\users\ejbal_000\documents\visual studio 2017\projects\alphabettrie\alphabettrie\alphabettrie.cpp(59): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  AlphabetTrie.vcxproj -> C:\Users\ejbal_000\Documents\Visual Studio 2017\Projects\AlphabetTrie\Debug\AlphabetTrie.exe
+  AlphabetTrie.vcxproj -> C:\Users\ejbal_000\Documents\Visual Studio 2017\Projects\AlphabetTrie\Debug\AlphabetTrie.pdb (Partial PDB)
